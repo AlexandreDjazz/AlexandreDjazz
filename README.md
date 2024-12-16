@@ -29,10 +29,10 @@
 <li><a href="https://github.com/Spatulox/PA_AuTempsDonne">PA_AuTempsDonne</a></li>
 <li><a href="https://github.com/Spatulox/TombChronicle">TombChronicle</a></li>
 <li><a href="https://github.com/AlexandreDjazz/Projet_GO_Reservation">Projet_GO_Reservation</a></li>
-</ul>>
+</ul>
 <h3>Personal Projects</h3>
 <ul>
-<li>Project 1: (à compléter)</li>
-<li>Project 2: (à compléter)</li>
+<li><a href="https://github.com/AlexandreDjazz/Projet-Shield" ></li>
+<li><a href="https://github.com/AlexandreDjazz/Projet-Shield" ></li>
 </ul>
 
