@@ -2,25 +2,32 @@
 
   <h2>Languages and Tools:</h2>
   
-  <p align="left">
-    <a href="https://www.php.net"><img src="https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4" alt="PHP"></a>
-    <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26" alt="HTML5"></a>
-    <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript"></a>
-    <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python">
-    <img src="https://img.shields.io/badge/-C-000?&logo=C" alt="C">
-    <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" alt="Java">
-  </p>
+ 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
-  <p align="left">
-    <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545" alt="MariaDB"></a>
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1" alt="MySQL"></a>
-    <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL"></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032" alt="Git"></a>
-    <a href="https://www.github.com/"><img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF" alt="GitHub"></a>
-    <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker">
-    <img src="https://img.shields.io/badge/-PowerBI-000?&logo=PowerBi" alt="PowerBI">
-  </p>
+<h2>Stats</h2>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandredjazz&show_icons=true&locale=en&layout=compact" alt="alexandredjazz" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandredjazz&show_icons=true&locale=en" alt="alexandredjazz" /></p>
 
 <h2>Projects</h2>
 <h3>School Projects</h3>
